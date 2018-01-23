@@ -44,7 +44,7 @@ def config = {
 
         extName 'ordermanagementaddon'
         extName 'orderselfserviceaddon'
-        extName 'ordermanagementfacade'
+        extName 'ordermanagementfacades'
         extName 'ordermanagementwebservices'
 
         extName 'warehousing'
